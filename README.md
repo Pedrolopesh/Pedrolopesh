@@ -42,13 +42,13 @@
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/pedro_lopes_s" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-pedrolopes-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://www.linkedin.com/in/pedro-lopes-50b3b818a/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-pedrolopes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.youtube.com/channel/UCEnWEeD27gzyliBYhRkcnzQ" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-pedrolopes-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
