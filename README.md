@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Pedrolopesh/065c3f1b207fc9ee3c81369698c73a4a/raw/8c37a8b0044dbcca49cdeb91f5178394ca79ae34/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px" widht="50px">, I'm Pedro Lopes</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px" width="50px">, I'm Pedro Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Senior Developer helping developers and companys around the world to grow faster
