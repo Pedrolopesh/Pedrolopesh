@@ -1,14 +1,14 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Pedrolopesh/065c3f1b207fc9ee3c81369698c73a4a/raw/8c37a8b0044dbcca49cdeb91f5178394ca79ae34/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Lopes</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50px" widht="50px">, I'm Pedro Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Senior Developer helping developers and companys around the world to grow faster
 
-- 🔭 I’m currently working at [ACCT]([https://github.com/Rocketseat](https://acct.global/))
+- 🔭 I’m currently working at [Quality Digital](https://qualitydigital.global/?utm_source=google&utm_medium=cpc&utm_campaign=gads_qualificar_geral_institucional_ads1&gad_source=1&gclid=Cj0KCQjwxqayBhDFARIsAANWRnQ-BCi0lXByvSicWMDmJCaEvpulaX20Ai7L1FpeywNTXviU5BHoer4aArmCEALw_wcB)
 
 - ▶️ I (not) regularly post videos on [youtube.com](https://www.youtube.com/channel/UCEnWEeD27gzyliBYhRkcnzQ)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **Typescript, HTML, CSS, SQL, NoSQL Node.JS**
 
 - ⚡ Fun fact **Oneye 😜**
 
